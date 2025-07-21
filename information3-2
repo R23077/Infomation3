@@ -1,4 +1,4 @@
-/* 基本的なリセット */
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -46,7 +46,7 @@ nav ul li a:hover {
 /* メインコンテンツのスタイル */
 main {
     padding: 20px;
-    max-width: 960px;
+    max-width: 460px;
     margin: 20px auto;
     background-color: rgb(255, 102, 0);
     box-shadow: 0 0 10px rgba(255, 254, 254, 0.1);
@@ -64,7 +64,7 @@ section:last-child {
 }
 
 img {
-    max-width: 100%; /* 親要素の幅に合わせて画像を縮小 */
+    max-width: 50%; /* 親要素の幅に合わせて画像を縮小 */
     height: auto; /* アスペクト比を維持 */
     display: block; /* 余分なスペースを削除 */
     margin: 20px auto; /* 中央寄せ */
