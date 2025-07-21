@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -43,9 +43,7 @@
                 それから、熱機関の効率や化学変化、物質の相変化などに用いる。
             </p>  
             <img src="images/photo-02.png" alt="関連画像2">
-        </main>
 　　　<footer>
         <p>&copy; 2025 田口光真/３年総合工学システム学科エネルギー機械コース１７番</p>
     　</footer>
-</body>
 </html>
