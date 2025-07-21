@@ -46,11 +46,11 @@ nav ul li a:hover {
 /* メインコンテンツのスタイル */
 main {
     padding: 20px;
-    max-width: 460px;
+    max-width: 260px;
     margin: 20px auto;
     background-color: rgb(255, 102, 0);
     box-shadow: 0 0 10px rgba(255, 254, 254, 0.1);
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 section {
