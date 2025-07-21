@@ -3,8 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>総合工学システム学科エネルギー機械コース</title> <p>【総合工学システム学科エネルギー機械コース】</p>
-    <link rel="stylesheet" href="main.css"> </head>
+    <title>総合工学システム学科エネルギー機械コース</title>
+    <p>【総合工学システム学科エネルギー機械コース】</p>
+    <link rel="stylesheet" href="main.css">
+</head>
 <body>
     <header>
         <h1>総合工学システム学科エネルギー機械コースの紹介</h1>
