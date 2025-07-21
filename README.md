@@ -42,13 +42,7 @@
                 それから、熱機関の効率や化学変化、物質の相変化などに用いる。
             </p>  
             <img src="images/photo-02.png" alt="関連画像2">
-        </section>
-　　　　 <section id="contact">
-            <h2>お問い合わせ</h2>
-            <p>ご質問はこちらまでお問い合わせください。</p>
-            <a href="mailto:your_email@example.com">メールを送る</a>
-        </section>
-    </main>
+        </main>
 　　　<footer>
         <p>&copy; 2025 田口光真/３年総合工学システム学科エネルギー機械コース１７番</p>
     　</footer>
